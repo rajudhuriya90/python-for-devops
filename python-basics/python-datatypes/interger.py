@@ -19,3 +19,12 @@ print("Rate:", rate)
 print("Time:", time)
 print("Simple Interest:", interest)
 
+####THIRD EXAMPLE ###
+
+number = 18
+
+if number % 2 == 0:
+    print(number, "is Even")
+else:
+    print(number, "is Odd")
+
